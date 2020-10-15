@@ -1,0 +1,11 @@
+#!/bin/bash
+clear
+sleep1
+echo -e "╔════•ೋೋ•════╗"
+echo -e " Author : TC"
+echo -e " YT :TRIO CHANNEL"
+echo -e "╚════•ೋೋ•════╝"
+read -p "Masukan No Target : " nomor;
+while [[ true ]]; do
+echo -e "Mencoba Mengirim Virus Ke Nomor  $nomor"
+done
